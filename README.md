@@ -62,7 +62,7 @@ configuration.
 
 ### The Recommended Workflow
 
-1. Active the extension.
+1. Activate the extension.
 2. Type messages.
 
 The extension will automatically add the changed files, perform the commit and
